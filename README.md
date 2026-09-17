@@ -1,0 +1,1 @@
+I am Hassanat Jibril, A Data Analytics and Machine Learning specialist driven by a practical passion for problem-solving. I combine analytics rigor with a human-centered approach to uncover meaningful insights, build intelligent algorithms, and help teams make smater, data-backed decisions.
