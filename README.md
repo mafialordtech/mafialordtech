@@ -1,1 +1,9 @@
-I am Hassanat Jibril, A Data Analytics and Machine Learning specialist driven by a practical passion for problem-solving. I combine analytics rigor with a human-centered approach to uncover meaningful insights, build intelligent algorithms, and help teams make smater.
+> I am Hassanat Jibril
+> 📍 Ilorin, Kwara State, Nigeria
+> About Me
+> I’m a business owner and baker transitioning into data analytics to bridge real-world business challenges with data-driven solutions. Having spent years running a business, managing daily operations, and working with numbers on the ground, I’m now mastering tools like Excel, Python, and statistical analysis to turn raw data into actionable insights.
+> Currently sharpening my skills through structured data analytics training, building practical projects, and learning how to use data to optimize processes and drive growth.
+> Skills & Tools
+> 📊 Data Analytics: Excel, Descriptive Statistics, Data Formatting & Visualization
+> 🐍 Programming: Python (Basics & Data Manipulation)
+> 💼 Domain Knowledge:Business Management, Operations, Record Keep
